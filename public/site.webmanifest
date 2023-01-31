@@ -1,0 +1,17 @@
+{
+  "name": "Liberty Apparel",
+  "short_name": "Liberty Apparel",
+  "description": "Liberty Apparel -> https://libertyapparel.com",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#fff",
+  "background_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "360x365"
+    }
+  ]
+}

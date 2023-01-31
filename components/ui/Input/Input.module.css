@@ -1,0 +1,7 @@
+.root {
+  @apply bg-primary py-2 w-full appearance-none transition duration-150 ease-in-out pl-2 pr-2 border text-gray-900 border-accents-6;
+}
+
+.root:focus {
+  @apply outline-none shadow-outline-normal;
+}

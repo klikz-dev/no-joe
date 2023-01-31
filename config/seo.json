@@ -1,0 +1,26 @@
+{
+  "title": "Claim Your FREE Decal Today!",
+  "titleTemplate": "%s - Liberty Apparel",
+  "description": "Liberty Apparel - https://libertyapparel.com",
+  "openGraph": {
+    "title": "Liberty Apparel",
+    "description": "Liberty Apparel - https://libertyapparel.com",
+    "type": "website",
+    "locale": "en_IE",
+    "url": "https://libertyapparel.com",
+    "site_name": "Liberty Apparel",
+    "images": [
+      {
+        "url": "/card.png",
+        "width": 800,
+        "height": 600,
+        "alt": "Liberty Apparel"
+      }
+    ]
+  },
+  "twitter": {
+    "handle": "@nextjs",
+    "site": "@nextjs",
+    "cardType": "summary_large_image"
+  }
+}
